@@ -1,0 +1,1 @@
+We give an overview of the 2020 Computational Geometry Challenge, which targeted the problem of partitioning the convex hull of a given planar point set P into the smallest number of convex faces, such that no point of P is contained in the interior of a face.

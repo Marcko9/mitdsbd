@@ -1,0 +1,2 @@
+Let $G$ be a simple graph on $n$ vertices and $J_G$ denote the corresponding binomial edge ideal in $S = K[x_1, \ldots, x_n, y_1,\ldots, y_n].$
+  We classify all generalized block graphs that admit unique extremal Betti number. Also, we prove that the Castelnuovo-Mumford regularity of binomial edge ideal of generalized block graph is bounded below by $m(G)+1$, where $m(G)$ is the number of minimal cut set.

@@ -1,0 +1,1 @@
+This demonstration presents a framework for building a resilient Cyber-Physical Systems (CPS) cyber-infrastructure through the use of hierarchical parametric assume-guarantee contracts. A Fischertechnik Sorting Line with Color Detection training model is used to showcase our framework.

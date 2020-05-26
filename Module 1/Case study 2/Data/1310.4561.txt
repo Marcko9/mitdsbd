@@ -1,0 +1,1 @@
+We define a new class of orthogonal polyhedra, called orthogrids, that can be unfolded without overlap with constant refinement of the gridded surface.

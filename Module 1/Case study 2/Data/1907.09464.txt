@@ -1,0 +1,1 @@
+We show that there exist absolute constants $Δ> δ> 0$ such that, for all $n \geqslant 2$, there exists a polynomial $P$ of degree $n$, with $\pm 1$ coefficients, such that $$δ\sqrt{n} \leqslant |P(z)| \leqslant Δ\sqrt{n}$$ for all $z\in\mathbb{C}$ with $|z|=1$. This confirms a conjecture of Littlewood from 1966.
