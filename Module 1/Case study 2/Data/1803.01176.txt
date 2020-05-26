@@ -1,1 +1,0 @@
-We prove that path puzzles with complete row and column information--or equivalently, 2D orthogonal discrete tomography with Hamiltonicity constraint--are strongly NP-complete, ASP-complete, and #P-complete. Along the way, we newly establish ASP-completeness and #P-completeness for 3-Dimensional Matching and Numerical 3-Dimensional Matching.

@@ -1,1 +1,0 @@
-We relate character theory of the symmetric groups $S_{2n}$ and $S_{2n+1}$ with that of the hyperoctahedral group $B_n = ({\mathbb Z}/2)^n \rtimes S_n$, as part of the expectation that the character theory of reductive groups with diagram automorphism and their Weyl groups, is related to the character theory of the fixed subgroup of the diagram automorphism.

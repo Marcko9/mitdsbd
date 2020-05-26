@@ -1,1 +1,0 @@
-A binary beat-by-beat classification algorithm for cerebral blood flow velocity (CBFV) recordings based on amplitude, spectral and morphological features is presented. The classification difference between 15 manually and algorithmically annotated CBFV records is around 5%.

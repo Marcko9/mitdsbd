@@ -1,1 +1,0 @@
-We show how to construct adversarial examples for neural networks with exactly verified robustness against $\ell_{\infty}$-bounded input perturbations by exploiting floating point error. We argue that any exact verification of real-valued neural networks must accurately model the implementation details of any floating point arithmetic used during inference or verification.

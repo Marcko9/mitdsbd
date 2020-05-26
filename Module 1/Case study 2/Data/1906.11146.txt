@@ -1,1 +1,0 @@
-Developing a packaging scheme that meets all of the requirements for operation of solid-state qubits in a cryogenic environment can be a formidable challenge. In this article, we discuss work being done in our group as well as in the broader community, focusing on the role of 3D integration and packaging in quantum processing with solid-state qubits.

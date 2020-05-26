@@ -1,1 +1,0 @@
-We present a short, self-contained, and purely combinatorial proof of Linnik's theorem: for any $\varepsilon > 0$ there exists a constant $C_\varepsilon$ such that for any $N$, there are at most $C_\varepsilon$ primes $p \leqslant N$ such that the least positive quadratic non-residue modulo $p$ exceeds $N^\varepsilon$.

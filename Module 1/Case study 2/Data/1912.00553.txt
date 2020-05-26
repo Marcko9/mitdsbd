@@ -1,1 +1,0 @@
-In this paper, we begin with the study of elements in $C^*$-algebras which are mapped to Schatten class ideals through faithful left regular representation. We further give some functorial properties of Schatten classes on the category of representations of a $C^*$-algebra and category of unitary representations of a group.
